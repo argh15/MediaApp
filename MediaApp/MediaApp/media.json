@@ -1,0 +1,72 @@
+[
+    {
+        "mediaUrl": "https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "title": "Mountain View",
+        "description": "A breathtaking view of mountains during sunset.",
+        "rating": 4.9,
+        "isLiked": true
+    },
+    {
+        "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "title": "Big Buck Bunny",
+        "description": "An animated film by the Blender Institute about a big bunny with an even bigger heart.",
+        "rating": 4.8,
+        "isLiked": false
+    },
+    {
+        "mediaUrl": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "title": "Forest Landscape",
+        "description": "A stunning image of a dense forest with sunlight piercing through.",
+        "rating": 4.6,
+        "isLiked": true
+    },
+    {
+        "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+        "title": "Sintel",
+        "description": "An independently produced short film by the Blender Foundation, featuring a brave warrior.",
+        "rating": 4.7,
+        "isLiked": false
+    },
+    {
+        "mediaUrl": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "title": "Urban Skyline",
+        "description": "An image showing a city's skyline with skyscrapers under a clear sky.",
+        "rating": 4.3,
+        "isLiked": false
+    },
+    {
+        "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "title": "Elephant's Dream",
+        "description": "The first open movie made entirely with open source graphics software.",
+        "rating": 4.2,
+        "isLiked": true
+    },
+    {
+        "mediaUrl": "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "title": "Beach",
+        "description": "A beautiful beach scene with waves crashing against the shore.",
+        "rating": 4.5,
+        "isLiked": true
+    },
+    {
+        "mediaUrl": "http://techslides.com/demos/sample-videos/small.mp4",
+        "title": "Sample Video 1",
+        "description": "A short demo video showing the capabilities of video streaming.",
+        "rating": 4.5,
+        "isLiked": true
+    },
+    {
+        "mediaUrl": "https://images.pexels.com/photos/21787/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "title": "Desert Dunes",
+        "description": "An image of vast desert dunes under a bright blue sky.",
+        "rating": 4.1,
+        "isLiked": false
+    },
+    {
+        "mediaUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+        "title": "Tears of Steel",
+        "description": "A science fiction short film produced using open-source software.",
+        "rating": 4.3,
+        "isLiked": true
+    }
+]
