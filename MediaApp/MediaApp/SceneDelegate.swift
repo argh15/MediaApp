@@ -20,8 +20,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         window = UIWindow(windowScene: windowScene)
         let fileParser = JSONFileParser()
-        let viewModel = ViewModel(fileParser: fileParser)
-        window?.rootViewController = ViewController(viewModel: viewModel)
+        let networkService = NetworkService()
+        let viewModel = MediaViewModel(fileParser: fileParser, networkService: networkService)
+        window?.rootViewController = MediaViewController(viewModel: viewModel)
         window?.makeKeyAndVisible()
     }
 
